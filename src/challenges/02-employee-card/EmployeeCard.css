@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.employee-card {
+  width: 300px;
+  margin: 50px auto;
+  padding: 24px;
+  border: 2px solid #ddd;
+  border-radius: 20px;
+  text-align: center;
+}
+.employee-card h1 {
+  font-size: 24px;
+}
+
+.employee-card h2 {
+  margin-bottom: 8px;
+}
+
+.employee-card p {
+  margin: 6px 0;
+}
+.employee-card button {
+  margin: 6px;
+  padding: 12px;
+  font-weight: bold;
+  color: black;
+  background-color: rgb(95, 95, 164);
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+}
